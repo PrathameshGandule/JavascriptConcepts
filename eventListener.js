@@ -28,7 +28,7 @@
 
 
 let myBox = document.getElementById("myBox");
-let moveAmount = 10;
+let moveAmount = 1;
 let x = 0;
 let y = 0;
 
